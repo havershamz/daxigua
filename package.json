@@ -1,0 +1,22 @@
+{
+  "name": "daxigua",
+  "version": "1.0.0",
+  "description": "**声明，本项目仅帮助大家学习技术及娱乐，切勿将修改后的网站大规模传播及商用，以避免侵权！**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyupi/daxigua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyupi/daxigua/issues"
+  },
+  "homepage": "https://github.com/liyupi/daxigua#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
